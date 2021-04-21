@@ -1,5 +1,6 @@
 ﻿  Game.cpp
   GameObject.cpp
-  TextureManager.cpp
+  Map.cpp
+f:\c++ scripting\islandman\islandman\map.cpp(67): warning C4065: switch statement contains 'default' but no 'case' labels
   Generating Code...
   IslandMan.vcxproj -> F:\C++ Scripting\IslandMan\x64\Debug\IslandMan.exe

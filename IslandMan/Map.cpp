@@ -60,8 +60,8 @@ void Map::DrawMap() {
 
 			switch (type)
 			{
-			case 0:
-				TextureManager::LoadTexture();
+			//case 0:
+				//TextureManager::LoadTexture();
 			default:
 				break;
 			}
